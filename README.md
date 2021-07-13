@@ -1,5 +1,5 @@
 # Preface
-`check_consul_node` is a Nagios check for reporiting the health state of a node in Consul cluster.
+`check_consul_node` is a Nagios check for reporting the health state of a node in Consul cluster.
 
 # Build requirements
 This tool is implemented in Go so, obviously, a Go compiler is required.
