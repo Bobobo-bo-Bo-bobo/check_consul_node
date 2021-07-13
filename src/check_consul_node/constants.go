@@ -1,7 +1,7 @@
 package main
 
 const name = "check_consul_node"
-const version = "1.0.0-20210712"
+const version = "1.0.0"
 
 var userAgent = name + "/" + version
 
