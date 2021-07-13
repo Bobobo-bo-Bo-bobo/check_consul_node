@@ -1,3 +1,7 @@
+**_Note:_** Because I'm running my own servers for several years, main development is done at at https://git.ypbind.de/cgit/check_consul_node/
+
+----
+
 # Preface
 `check_consul_node` is a Nagios check for reporting the health state of a node in Consul cluster.
 
